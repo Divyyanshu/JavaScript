@@ -48,6 +48,11 @@
 
 // final flat arrow program beacuse return islyie hatyia kyu ki single line code the statement the !
 
-// var sum = () => `the sum of two no is ${(a=10)+(b=5)}`
+var sum = () => `the sum of two no is ${(a=10)+(b=5)}`
 
-// console.log(sum())
+console.log(sum())
+
+function bigboss(){
+
+}
+bigboss();
