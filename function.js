@@ -41,7 +41,7 @@
 //     return total = a+b;
 // }
 // calling function
-// var sum = funExp(55,5)
+// var sum = funExp(55,5);
 // var sum1 = funExp(21,40)
 // console.log(sum >= sum1);
 // console.log("sum of two no is " + sum*sum1);
