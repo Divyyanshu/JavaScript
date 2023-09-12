@@ -40,3 +40,14 @@
 //     var tableOf = 10056;
 //     console.log(tableOf+ " * " + num + " = " + (tableOf*num)) 
 // }
+
+// ⚡important find even or odd number using loop 
+for (var i = 0; i <= 20; i++) {
+    if (i === 0) {
+        console.log(i + " still even ")
+    } else if (i % 2 === 0) { console.log(i + " even") }
+    else{
+        console.log(i + " odd")
+    }
+
+}
