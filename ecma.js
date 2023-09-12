@@ -52,5 +52,5 @@
 
 // console.log(sum())
 
-let sum = () =>`sum is ${(a=12)-(b=3)}`
-console.log(sum());
+// let sum = () =>`sum is ${(a=12)-(b=3)}`
+// console.log(sum());
