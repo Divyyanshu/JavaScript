@@ -80,7 +80,7 @@
 // }
 
 // best programe for CRUD  elements use indexOf()
-//💡❤️
+//💡❤️ (starter-->,delete--->,add--->)
 
 // let months = ["jan","feb", "march","april", "june","july"]
 // const indexOfmonths = months.indexOf("june")
